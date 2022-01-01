@@ -1,1 +1,1 @@
-# Sasi_task
+I have attached my task screen 1 & 2 .In my first screen i have used the required textfield,button,validation and alert message wherever required.In screen-2, I have initialized the table view with the required API's and also in screen-2, I have tried various methods to merge two api's but i can't fix the api's in single screen.check the file for review.
